@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#coded by M.Fazri Nizar
+#coded by M.Fazri Nizar, github.com/Anon6372098/Perl-Tutorial
 #print triangle according to the rows
 
 my($a, $b, $c, $d);
